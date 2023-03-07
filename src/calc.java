@@ -9,6 +9,7 @@
 
             System.out.println("Enter second number:");
             double secondNumber = input.nextDouble();
+            double secondNumber2 = input.nextDouble();
 
             System.out.println("Enter an operator (+, -, *, /):");
             char operator = input.next().charAt(0);
